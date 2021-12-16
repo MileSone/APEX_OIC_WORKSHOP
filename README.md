@@ -2,7 +2,7 @@
 
 With the power of OIC process and workflow, we create OIC proccess 
 
-![Snipaste_2021-12-16_15-29-55](/Users/mw-mac/Documents/otherProjects/Apex/Vitasoy/git_workshop/images/Snipaste_2021-12-16_15-29-55.png)
+![Snipaste_2021-12-16_15-29-55](images/Snipaste_2021-12-16_15-29-55.png)
 
 ## To create this demo there are few steps we need to run
 
