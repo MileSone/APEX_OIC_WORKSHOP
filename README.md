@@ -62,7 +62,7 @@ And with this IDCS integration, inovate more. since OIC is integration cloud, yo
 
 ##### Step 5:  click on "Service Console" to save your **OIC instance URL**
 
-  ![Screenshot 2021-12-16 at 1.26.28 PM](images/Screenshot 2021-12-16 at 1.26.28 PM.png)
+  ![Screenshot 2021-12-16 at 1.26.28 PM](images/Screenshot_2021-12-16_at_1.26.28.png)
 
 
 
@@ -72,17 +72,17 @@ And with this IDCS integration, inovate more. since OIC is integration cloud, yo
 
 ##### Step 1: Click on the Hamburger icon on top left, navigate to Oracle Database and then select Autonomous Database as shown in the below   
 
-![Snipaste_2021-12-20_11-34-00](/Users/mw-mac/Desktop/Snipaste_2021-12-20_11-34-00.png)
+![Snipaste_2021-12-20_11-34-00](images/Snipaste_2021-12-20_11-34-00.png)
 
 ##### Step 2: Select the respective compartment and click on create button to create autonomous database as shown below.  
 
-![Snipaste_2021-12-20_11-34-19](/Users/mw-mac/Desktop/Snipaste_2021-12-20_11-34-19.png)
+![Snipaste_2021-12-20_11-34-19](images/Snipaste_2021-12-20_11-34-19.png)
 
 ##### Step 3: Enter encessary information enter admin passoword then select “Create Autonomous Database” button.
 
-![Snipaste_2021-12-20_11-35-26](/Users/mw-mac/Desktop/Snipaste_2021-12-20_11-35-26.png)
+![Snipaste_2021-12-20_11-35-26](images/Snipaste_2021-12-20_11-35-26.png)
 
-![Snipaste_2021-12-20_11-35-42](/Users/mw-mac/Desktop/Snipaste_2021-12-20_11-35-42.png)
+![Snipaste_2021-12-20_11-35-42](images/Snipaste_2021-12-20_11-35-42.png)
 
 ##### Step 4: Once its built, click on Launch APEX button
 
@@ -170,15 +170,15 @@ For this workshop we will be use a demo project for importing and we can use it 
 
 ##### Step 1: in the projects folder, download two projects
 
-![Screenshot 2021-12-20 at 12.17.35 PM](images/Screenshot 2021-12-20 at 12.17.35 PM.png)
+![Screenshot 2021-12-20 at 12.17.35 PM](images/Screenshot_2021-12-20_at_12.17.35.png)
 
 ##### Step 2:  open OIC instance URL , in console click processes in the left top menu
 
-![Screenshot 2021-12-16 at 1.26.59 PM](images/Screenshot 2021-12-16 at 1.26.59 PM.png)
+![Screenshot 2021-12-16 at 1.26.59 PM](images/Screenshot_2021-12-16_at_1.26.59.png)
 
 ##### Step 3:  on the top right click “Create” button
 
-![Screenshot 2021-12-16 at 1.30.29 PM](images/Screenshot 2021-12-16 at 1.30.29 PM.png)
+![Screenshot 2021-12-16 at 1.30.29 PM](images/Screenshot_2021-12-16_at_1.30.29.png)
 
 ##### Step 4: select import project  
 
