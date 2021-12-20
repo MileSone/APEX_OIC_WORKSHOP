@@ -300,9 +300,9 @@ In this workshop we will import a demo APEX project. In APEX we will import appl
 
 ![Snipaste_2021-12-16_13-53-48](images/Snipaste_2021-12-16_13-53-48.png)
 
-##### Step 7:  Save your URL
+##### Step 7:  Save your URL and App ID
 
-baseURL:https://g30345bc1601f57-XXXX.adb.ap-tokyo-1.oraclecloudapps.com
+APEX baseURL:https://g30345bc1601f57-XXXX.adb.ap-tokyo-1.oraclecloudapps.com
 
 APEX Application ID on top left: 104
 
@@ -463,11 +463,17 @@ now lets login and test
 
 
 
+Now you can create a customer creation request. (with OIC "New Creation Request"  role)
+
 
 
 ![Snipaste_2021-12-20_16-13-13](images/Snipaste_2021-12-20_16-13-13.png)
 
+And logged in user can see their tasks.
+
 ![Snipaste_2021-12-20_16-13-00](images/Snipaste_2021-12-20_16-13-00.png)
+
+Click into a single one user can enter commands, see where the task at, and approve or reject the task.
 
 ![Snipaste_2021-12-20_16-14-55](images/Snipaste_2021-12-20_16-14-55.png)
 
@@ -475,3 +481,16 @@ now lets login and test
 
 ![Snipaste_2021-12-20_16-15-04](images/Snipaste_2021-12-20_16-15-04.png)
 
+With OIC Email notification enable user will receive email notifications as well
+
+![Snipaste_2021-12-20_17-42-39](images/Snipaste_2021-12-20_17-42-39.png)
+
+In OIC Console click My Tasks in the menu - select Processes.
+
+![Snipaste_2021-12-20_17-29-49](images/Snipaste_2021-12-20_17-29-49.png)
+
+
+
+![Snipaste_2021-12-20_17-30-30](images/Snipaste_2021-12-20_17-30-30.png)
+
+***You can see in graphical view to check where the task at.  Which department is blocking the workflow !***
