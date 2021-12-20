@@ -1,7 +1,0 @@
-**OIC part**
-
-Intro
-
-
-
-# 
