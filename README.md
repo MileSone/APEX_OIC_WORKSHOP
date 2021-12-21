@@ -494,3 +494,23 @@ In OIC Console click My Tasks in the menu - select Processes.
 ![Snipaste_2021-12-20_17-30-30](images/Snipaste_2021-12-20_17-30-30.png)
 
 ***You can see in graphical view to check where the task at.  Which department is blocking the workflow !***
+
+
+
+<a name="memu_step10"></a>
+
+# End User experience
+
+In the video we will show how to use this OIC+APEX demo.
+
+*Alex acts as request creator.*
+
+*Oscar is an approver in the Sales Department.*
+
+**People have different roles assigned in OIC, they will have different access in this APEX application!**
+
+https://user-images.githubusercontent.com/6970416/146891233-17615c1e-5394-485d-be76-43539e8b9bd3.mp4
+
+https://user-images.githubusercontent.com/6970416/146891271-b714fcad-ea47-4705-81ba-5cda372a2c62.mp4
+
+https://user-images.githubusercontent.com/6970416/146891443-7698adb0-8d1e-497b-9a8c-fd1f80e7b301.mp4
