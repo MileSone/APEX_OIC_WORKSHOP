@@ -420,24 +420,24 @@ We have successful activate our IDCS application. Now we will link APEX applicat
 
 ##### Step 1:  Configure Web credentials
 
-- [ ] In APEX application 104 -> share components -> Web Credentials 
-- [ ] Edit a web credential called "IDCS_Application_Credentials"
-- [ ] Put OAuth2 as Authentication Type
-- [ ] OAuth Scope we put IDCS app scope system generated like https://BF1CB539D29C437F8B4F9EE42398255F.integration.ocp.oraclecloud.com:443urn:opc:resource:consumer::all
-- [ ] put Client ID
-- [ ] put Client Secret
-- [ ] Apply Changes
+- In APEX application 104 -> share components -> Web Credentials 
+- Edit a web credential called "IDCS_Application_Credentials"
+- Put OAuth2 as Authentication Type
+- OAuth Scope we put IDCS app scope system generated like https://BF1CB539D29C437F8B4F9EE42398255F.integration.ocp.oraclecloud.com:443urn:opc:resource:consumer::all
+- put Client ID
+- put Client Secret
+- Apply Changes
 
 ![Snipaste_2021-12-16_14-37-29](images/Snipaste_2021-12-16_14-37-29.png)
 
 ##### Step 2:  Configure Authentication Schemes
 
-- [ ] Choose OIC_IDCS_AUTH
-- [ ] Scheme Type : Social Sign-In
-- [ ] Discovery URL: <IDCS BASE URL>/.well-known/openid-configuration
-- [ ] Scope: we put IDCS app scope system generated
-- [ ] Change Post-Logout URL: <APEX BASEURL>/ords/f?p=<ApplicationID>
-- [ ] Then hit Apply changes
+- Choose OIC_IDCS_AUTH
+- Scheme Type : Social Sign-In
+- Discovery URL: <IDCS BASE URL>/.well-known/openid-configuration
+- Scope: we put IDCS app scope system generated
+- Change Post-Logout URL: <APEX BASEURL>/ords/f?p=<ApplicationID>
+- Then hit Apply changes
 
 ![Snipaste_2021-12-16_14-39-32](images/Snipaste_2021-12-16_14-39-32.png)
 
