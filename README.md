@@ -334,8 +334,8 @@ CREATE TABLE  "LOG_INFO"
 ###### replace the value of OIC define ID and BaseURL for OIC instance URL
 
 ```
-*INSERT INTO CRK_DICT(TTYPE ,TNAME) VALUES('OICAppId','CustomerCreationApp!1.0*soa_2a2f1c2d-7186-4733-91ed-91c768681XXX')*
-*INSERT INTO CRK_DICT(TTYPE ,TNAME) VALUES('BaseURL','https://oic-mile-workshop-XXXXXX-nt.integration.ocp.oraclecloud.com')*
+INSERT INTO CRK_DICT(TTYPE ,TNAME) VALUES('OICAppId','CustomerCreationApp!1.0*soa_2a2f1c2d-7186-4733-91ed-91c768681XXX')
+INSERT INTO CRK_DICT(TTYPE ,TNAME) VALUES('BaseURL','https://oic-mile-workshop-XXXXXX-nt.integration.ocp.oraclecloud.com')
 ```
 
 ###### Select the SQL then hit run 
