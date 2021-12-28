@@ -186,7 +186,7 @@ For this workshop we will be use a demo project for importing and we can use it 
 
 ![Snipaste_2021-12-16_13-30-43](images/Snipaste_2021-12-16_13-30-43.png)
 
-##### Step 5:  choose the file "OIC_project.exp" enter a name for it and click import button.
+##### Step 5:  choose the file "OIC_project.exp" enter "CustomerCreationApp" as a name for it and click import button.
 
 ![Snipaste_2021-12-16_13-31-09](images/Snipaste_2021-12-16_13-31-09.png)
 
@@ -308,6 +308,8 @@ APEX baseURL:https://g30345bc1601f57-XXXX.adb.ap-tokyo-1.oraclecloudapps.com
 
 APEX Application ID on top left: 104
 
+Combine app URL example : https://g30345bc1601f57-XXXX.adb.ap-tokyo-1.oraclecloudapps.com/ords/f?p=104
+
 ##### then Click on SQL workshop, choose  SQL commands
 
 ![Snipaste_2021-12-16_13-54-04](images/Snipaste_2021-12-16_13-54-04.png)
@@ -344,7 +346,7 @@ INSERT INTO CRK_DICT(TTYPE ,TNAME) VALUES('BaseURL','https://oic-mile-workshop-X
 
 Note: With these set up, we have added the application and database tables, however this application is using SSO, unless we change it to others or create IDCS application for this APEX app we won't able to run the app.
 
-save your APEX base URL for example: 
+save those URL
 
 
 
@@ -358,7 +360,7 @@ Lets now create IDCS application, this IDCS is controlling the users who can log
 
 navigate to [IDCS Console](#IDCS_CONSOLE)
 
-Select Application on the menu
+Select Application on the menu 
 
 Click on Add button to add a application 
 
