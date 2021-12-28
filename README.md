@@ -356,6 +356,12 @@ save those URL
 
 Lets now create IDCS application, this IDCS is controlling the users who can login and logout from APEX UI. And this application is conrolling who can invoke OIC API in the scope.
 
+note: you need have **"IDCS admin"** role to create IDCS application in IDCS.
+
+IDCS ADMIN need add people into this Group in IDCS console.
+
+![Snipaste_2021-12-28_12-44-14](images/Snipaste_2021-12-28_12-44-14.png)
+
 ##### Step 1:  Create IDCS app
 
 navigate to [IDCS Console](#IDCS_CONSOLE)
