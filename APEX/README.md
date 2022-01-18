@@ -10,6 +10,10 @@ all integration API are list as below， the main important action are:
 
 
 
+Project setting we will be need add application process to get current login user ID and set OIC URL and access token to gobal variable. 
+
+![Snipaste_2022-01-18_10-54-11](image/Snipaste_2022-01-18_10-54-11.png)
+
 #### 1.Start Process  - Create a form 
 
 ![Snipaste_2022-01-18_09-37-48](image/Snipaste_2022-01-18_09-37-48.png)
@@ -250,7 +254,7 @@ end;
 
 #### 5.Get history actions 
 
-![Snipaste_2022-01-18_10-38-33](image/Snipaste_2022-01-18_10-38-33.png)
+![Snipaste_2022-01-18_10-38-33](image/Snipaste_2022-01-18_10-54-58.png)
 
 ```plsql
 declare
