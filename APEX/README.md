@@ -14,7 +14,7 @@ Project setting we will be need add application process to get current login use
 
 ![Snipaste_2022-01-18_10-54-11](image/Snipaste_2022-01-18_10-54-11.png)
 
-#### 1.Start Process  - Create a form 
+#### 1.Start process  - create a form 
 
 ![Snipaste_2022-01-18_09-37-48](image/Snipaste_2022-01-18_09-37-48.png)
 
@@ -90,7 +90,7 @@ end;
 
 
 
-#### 2. View Task assigned to me
+#### 2. View task that assigned to me
 
 ![Snipaste_2022-01-18_09-37-59](image/Snipaste_2022-01-18_09-37-59.png)
 
@@ -181,9 +181,9 @@ END;
 
 
 
-#### 3. view single task
+#### 3. View a single task
 
- with Interactive report we can directly click a the pencie icon in report to view task details.
+ With Interactive report functionality. we can directly click the pencil icon in the report to view task details.
 
 ![Snipaste_2022-01-18_10-38-44](image/Snipaste_2022-01-18_10-38-44.png)
 
@@ -193,7 +193,7 @@ Get into Task Detail page:
 
 
 
-#### 4.get task payload(form data)
+#### 4.Get task payload(form data)
 
 ![Snipaste_2022-01-18_09-41-18](image/Snipaste_2022-01-18_09-41-18.png)
 
@@ -299,7 +299,9 @@ end;
 
 
 
-#### 6. Approval or reject task item
+#### 6. Approval or reject a task item
+
+here we will assign P4_OPT with value that you want to use (you named in OIC gateway) along with  P4_COMMENT and pass the value to the API:
 
 ```plsql
 declare
